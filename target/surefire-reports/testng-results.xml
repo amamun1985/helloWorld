@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-01T13:29:14 EST" name="test_automation" finished-at="2021-02-01T13:30:04 EST" duration-ms="50241">
+    <groups>
+    </groups>
+    <test started-at="2021-02-01T13:29:14 EST" name="selenium" finished-at="2021-02-01T13:30:04 EST" duration-ms="50241">
+      <class name="automation_test.php_travels.TitlePHP">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:automation_test.php_travels.TitlePHP@31aa3ca5]" started-at="2021-02-01T13:29:14 EST" name="openBrowser" finished-at="2021-02-01T13:30:00 EST" duration-ms="46569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="validateTitle()[pri:0, instance:automation_test.php_travels.TitlePHP@31aa3ca5]" started-at="2021-02-01T13:30:00 EST" name="validateTitle" finished-at="2021-02-01T13:30:00 EST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:automation_test.php_travels.TitlePHP@31aa3ca5]" started-at="2021-02-01T13:30:00 EST" name="closeBrowser" finished-at="2021-02-01T13:30:04 EST" duration-ms="3592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- automation_test.php_travels.TitlePHP -->
+    </test> <!-- selenium -->
+  </suite> <!-- test_automation -->
+</testng-results>

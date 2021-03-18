@@ -1,0 +1,5 @@
+.idea
+debug.log
+docker-compose.yml
+makefile
+targetPHP-Title.png
